@@ -1,0 +1,6 @@
+.pio
+CMakeFiles/
+target/
+
+.ccls
+*~
